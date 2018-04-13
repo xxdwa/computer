@@ -1,0 +1,99 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 16:32:49
+* @Last Modified by:   晓晓
+* @Last Modified time: 2018-03-08 19:56:06
+*/
+.computer{
+	width: 500px;
+	height: 888px;
+	background: yellow;
+	margin: 0 auto;
+}
+.head{
+	width: 500px;
+	height : 78px;
+	background: #00a5c4;
+}
+.window{
+	width: 100%;
+	height: 258px;
+	background: #f0f0f0;
+}
+.xiala{
+	width: 100%;
+	height:48px ;
+	background:#dfe3e4 ;
+}
+.jisuan{
+	width: 100%;
+	height: 505px;
+	background: #dde1e2;
+}
+.anjian{
+	width:123px ;
+	height:99px ;
+	background: #fafafa;
+	/* 使div横排 */
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 3px;
+	font-size: 38px;
+	text-align: center;
+	line-height: 99px;
+	color: #184e59;
+}
+.anjian1{
+	width: 124px;
+}
+.anjian2{
+	margin-right:0;
+}
+.anjian3{
+	height: 97px;
+}
+.head-left{
+	width: 77px;
+	height: 100%;
+	background: #00a5c4;
+	float: left;
+	margin-left: 23px;
+	font-size: 20px;
+	color: #fffdfc;
+	text-align: center;
+	line-height: 78px;
+}
+.head-right{
+	width: 7px;
+	height: 25px;
+	background: #00a5c4;
+	float: right;
+	margin-right: 30px;
+	margin-top: 26px;
+}
+.circle{
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background:#ffffff;
+	margin-bottom: 2px;
+}
+.circle1{
+	margin-bottom: 0;
+}
+.shu{
+	width: 3px;
+	height: 77px;
+	background:#00a0c1 ;
+	float: right;
+	margin-top: 8px;
+	margin-right: 15px;
+
+
+}
+.xiaxia{
+	width: 38px;
+	height: 47px;
+	background: yellow;
+	margin: 0 auto;
+}
